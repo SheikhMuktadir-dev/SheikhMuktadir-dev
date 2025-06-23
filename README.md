@@ -27,7 +27,7 @@ I’m reliable, fast to learn, and ready to integrate into European development 
 - 🔹 Aligned with European work culture and communication standards  
 - 🔹 Fluent in English
 
-**Preferred countries:** Germany, Netherlands, Sweden, Finland, Denmark
+**Preferred countries:** Germany, Netherlands, Sweden, Finland, Denmark, Portugal, Poland, Spain, Norway
 
 ---
 
@@ -50,8 +50,8 @@ I’m reliable, fast to learn, and ready to integrate into European development 
 ## 📫 Contact
 
 - 📧 **Email:** sheikhmuktadir.dev@gmail.com  
-- 🌐 **Portfolio:** [sheikhmuktadir.dev](https://sheikhmuktadir.dev) *(if available)*  
-- 💼 **LinkedIn:** [linkedin.com/in/sheikhmuktadir](https://linkedin.com/in/sheikhmuktadir) *(optional)*
+- 🌐 **Portfolio:** 
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sheikhmuktadir-dev/
 
 ---
 
